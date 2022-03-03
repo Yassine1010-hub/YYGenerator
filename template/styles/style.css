@@ -1,0 +1,179 @@
+*{
+  -webkit-transition: all 200ms ease-in-out;
+  -moz-transition: all 200ms ease-in-out;
+  -ms-transition: all 200ms ease-in-out;
+  transition: all 200ms ease-in-out;
+  -webkit-appearance: none;
+  outline: none;
+}
+textarea{
+	resize: none;
+}
+body{
+	background-color: #F6F6F6;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	height: 100vh;
+	margin: 0;
+}
+h1,h2,h2,h4,h5{
+	margin: 0;
+}
+.welcome{
+	width: 600px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	height: 250px;
+	justify-content: space-between;
+}
+
+.title{
+	font-family: couture;
+	font-size: 25px;
+}
+
+p{
+	margin: 0;
+	font-family: montLight;
+	font-size: 15px;
+	text-align: center;
+	margin-bottom: 20px;
+}
+
+.button{
+	display: flex;
+	justify-content: space-between;
+	width: 400px;
+}
+.section{
+	display: flex;
+	flex-direction: column;
+	justify-content: space-around;
+	align-items: center;
+	border: 1px solid #e3e3e3;
+	border-radius: 10px;
+	padding: 5px;
+	width: 150px;
+	height: 150px;
+
+
+}
+.section h5{
+	font-family: comfortaLight;
+	font-size: 12px;
+}
+.section .btn{
+	display: flex;
+	text-decoration: none;
+	justify-content: center;
+	width: 100%;
+	box-sizing: border-box;
+	font-family: comfortaLight;
+	font-size: 13px;
+	border: 1px solid #008FB2;
+	background-color: #008FB2;
+	border-radius: 5px;
+	padding: 5px;
+	color: white;
+	cursor: pointer;
+}
+.section .btn:hover{
+	border: 1px solid #006c87;
+	background-color: #006c87;
+}
+
+
+
+/* Form CV */
+.ico{
+	width: 25px;
+}
+.container{
+	margin-bottom: 20px;
+}
+.container h4{
+	font-family: couture;
+	font-size: 15px;
+	margin-bottom: 10px;
+}
+.container .container__btn button{
+	font-family: interLight;
+	font-size: 11Px;
+	border: 1px solid #fff;
+	background-color: #fff;
+	color: black;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	width: 160px;
+	border-radius: 10px;
+	box-shadow: 0px 0px 10px 0px rgba(119, 119, 119, 0.72);
+	-moz-box-shadow: 0px 0px 10px 0px rgba(119, 119, 119, 0.72);
+	-webkit-box-shadow: 0px 0px 10px 0px rgba(119, 119, 119, 0.72);
+	cursor: pointer;
+}
+
+.field{
+	display: flex;
+	flex-direction: column;
+	width: 300px;
+}
+.field input, .field textarea{
+	border: 1px solid #e3e3e3;
+	padding: 7px;
+	border-radius: 5px;
+	font-family: comfortaLight;
+	margin-bottom: 15px;
+	font-size: 12px;
+	width: 100%;
+
+}
+.field label{
+	font-family: comfortaLight;
+	font-size: 12px;
+	margin-bottom: 2px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -6,7 +6,7 @@ define('CONST_INCLUDE', NULL);
 @require_once('classes/connexion.php');
 @require_once ('classes/JWT.php');
 //This contains all the names of the modules
-$page = array('home');
+$page = array('home', 'motivation');
 
 
 $view = new GenericView();

@@ -4,7 +4,7 @@
 <html lang="fr">
 <head>
     <meta charset="utf-8">
-    <title>Smart-IUT</title>
+    <title>YYGenerator</title>
     <link rel="stylesheet" type="text/css" href="template/styles/style.css">
     <link rel="stylesheet" type="text/css" href="template/styles/fonts.css">
     <meta name="viewport" content="width=device-width">
